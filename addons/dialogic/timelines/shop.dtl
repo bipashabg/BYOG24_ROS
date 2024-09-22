@@ -1,0 +1,23 @@
+join shop center
+shop: Ah, you’ve gathered the Essence of Courage and the Light of Hope.
+shop: Combine them to forge true Bravery, essential for your journey ahead.
+shop: However, should you lack either, you can opt to exchange all collected hearts for a semblance of bravery.
+shop: But remember, it won’t be genuine...
+shop: Have you collected them all? Be honest.
+- Yes!
+	shop: Bravery successfully forged!
+	shop: You have crossed the hurdles and overcame your fear.
+	shop: You became braver, this is your first step towards evolution-
+	shop: And facing your true reflection!
+	shop: Continue on the path of your mystical forest and cross other stages,
+	shop: Such as guilt, anger, loneliness...
+	shop: The path ahead is rocky, good luck!
+	join player left
+	player: (Onto the next challenge!)
+- No...
+	shop: You’ve chosen the path of counterfeit bravery.
+	shop: It may carry you forward, but it lacks the strength and authenticity to truly dispel your fears.
+	shop: Remember, true bravery comes from facing your inner shadows.
+	shop: You can restart the level to gather what’s missing,
+	shop: or continue with this hollow courage.
+[end_timeline]

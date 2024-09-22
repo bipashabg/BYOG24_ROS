@@ -1,0 +1,15 @@
+join "Fear Spirit" left
+"Fear Spirit": To traverse this realm and conquer your fears, you must cross your hurdles and gather the true Essence of Courage.
+You may choose to traverse on the quickest path and find another way but-
+join potion right [animation="Zoom Center In"]
+"Fear Spirit": Without this, true bravery remains elusive.
+leave potion [animation="Fade Out"]
+"Fear Spirit": Beware,
+"Fear Spirit": for should you falter in your quest, a semblance of bravery awaits you—
+"Fear Spirit": yet it is but a hollow echo of your true self.
+- Acknowledge
+	"Fear Spirit": Your journey begins now. Seek the Courage Shard and Hope Gems to forge true Bravery.
+	"Fear Spirit": Fail to do so, and the path you tread will be fraught with shadows that do not belong to you.
+	join player left
+	player: (To conquering our fears and evolving as oneself!)
+[end_timeline]
